@@ -1,11 +1,11 @@
 import './App.css';
-import Logo from './images/qiqi_logo.svg'
+import Logo from './images/qiqi_logo.png'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={Logo} className="App-logo" />
+        <img src={Logo} className="App-logo" alt ="qiqi_logo"/>
         <p>
           QiQi's Gallery
         </p>
