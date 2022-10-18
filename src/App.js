@@ -1,21 +1,29 @@
-import logo from './logo.svg';
 import './App.css';
+import Logo from './images/qiqi_logo.svg'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
+        <img src={Logo} className="App-logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          QiQi's Gallery
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://qiqi77.azurewebsites.net/"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          Sky Series
+        </a>
+        <a
+          className="App-link"
+          href="https://qiqi77.azurewebsites.net/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Ocean Series
         </a>
       </header>
     </div>
