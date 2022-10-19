@@ -1,0 +1,8 @@
+.Bottom {
+  text-align: center;
+  width:100%;
+  background-color: #031053;
+  color: #B5EDF9;
+  position: fixed;
+  bottom: 0;
+}

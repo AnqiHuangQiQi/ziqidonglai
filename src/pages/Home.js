@@ -20,11 +20,19 @@ function Home() {
         </Link>
         <Link
           className="App-link"
-          href="/"
+          to="/"
           target = "_blank"
           rel="Ocean"
         >
           Ocean Series
+        </Link>
+        <Link
+          className="App-link"
+          to="/thebookofanswers"
+          target = "_blank"
+          rel="thebookofanswers"
+        >
+          The Book of Answers
         </Link>
       </header>
     </div>
