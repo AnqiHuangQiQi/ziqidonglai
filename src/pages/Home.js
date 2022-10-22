@@ -1,5 +1,5 @@
 import '../App.css';
-import Logo from '../images/qiqi_logo.png'
+import Logo from '../images/qiqi_logo.png';
 import { Link } from "react-router-dom";
 
 function Home() {
