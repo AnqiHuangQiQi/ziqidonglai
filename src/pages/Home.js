@@ -34,6 +34,14 @@ function Home() {
         >
           The Book of Answers
         </Link>
+        <Link
+          className="App-link"
+          to="/decisionmaker"
+          target = "_blank"
+          rel="decisionmaker"
+        >
+          Decision Maker
+        </Link>
       </header>
     </div>
   );

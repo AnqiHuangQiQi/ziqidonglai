@@ -39,6 +39,25 @@
   margin: 5px;
 }
 
+.Add-option-button {
+  display: inline-block;
+  border-radius: 4px;
+  background-color: #A4EDFD;
+  border: none;
+  color: #0E2C52;
+  text-align: center;
+  font-size: 16px;
+  padding: 8px;
+  width: 120px;
+  transition: all 0.5s;
+  cursor: pointer;
+  margin: 1px;
+}
+
+.Add-Option{
+  margin-top: 200px;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
